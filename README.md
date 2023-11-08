@@ -1,8 +1,6 @@
 ### Faisal Hameed  
 
-I'm a rookie web developer learning to build  full-stack applications.
-Currently improving skills in React, Node.js & MongoDB
-
+I'm a full-stack web developer (MERN Stack), and a BS GIS & Remote Sensing student, applying my programming skills in GIS and RS.
 
 **Fun Facts:** 
 - i use Arch Linux btw
