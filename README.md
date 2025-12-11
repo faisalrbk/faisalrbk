@@ -2,8 +2,6 @@
 
 I'm a full-stack web dev (mern stack  & Next.js) who somehow ended up studying GIS & Remote Sensing. and sometimes dabbling in the Python AI/ML world.
 
- lol, by now you probably know  what exactly I’m doing.
-
 **Fun Facts:** 
 - i use Arch Linux btw.
 - I’ve learned almost everything from YouTube.
