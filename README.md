@@ -1,6 +1,6 @@
 ### Faisal Hameed  
 
-I'm a full-stack web dev (mern stack  & Next.js) who somehow ended up studying GIS & Remote Sensing. and sometimes dabbling in the Python AI/ML world.
+I'm a full-stack web dev who somehow ended up studying GIS & Remote Sensing. and sometimes dabbling in the Python AI/ML world.
 
 **Fun Facts:** 
 - i use Arch Linux btw.
