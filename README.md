@@ -1,6 +1,6 @@
 ### Faisal Hameed  
 
-I'm a full-stack web dev who somehow ended up studying GIS & Remote Sensing.
+I'm a self taught **web dev.** who somehow ended up studying GIS & Remote Sensing.
 
 **Fun Facts:** 
 - i use Arch Linux btw.
