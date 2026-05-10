@@ -1,10 +1,9 @@
-### Faisal Hameed  
-
+### Faisal Hameed <img src="https://raw.githubusercontent.com/faisalrbk/shortest-route/master/verified.svg" width="22" valign="top">
 I'm a self taught *solo* **web dev.** who somehow ended up studying **RS & GIS.**
 
 **Fun Facts:** 
 - I use **Arch** btw.
-- suffering is my hobby.
+- Suffering is my hobby.
 - I’ve tried almost every **Linux** distro.
 - I’ve learned almost everything from **youtube**.
 - I like watching anime, web series, listening to music and playing chess.
